@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on E-Commerce Project<br>👯 I’m looking to collaborate on My Projects<br> 💭 Talking is bad, Show me the code <br>
+🔭 I’m currently working on E-Commerce Project<br>👯 I’m looking to collaborate on My Projects<br> 💭 Talking is cheap, Show me the code <br>
 
 
 ## 🌐 Socials:
