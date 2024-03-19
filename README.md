@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/mandorakannu" target="blank"><img src="https://img.shields.io/twitter/follow/kannumandora?logo=twitter&style=for-the-badge" alt="mandorakannu" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://mandorakannu.tech](https://mandorakannu.me)
+- 👨‍💻 All of my projects are available at [Portfolio](https://mandorakannu.rocks)
 
-- 📝 I regularly write articles on [https://mandorakannu.me](https://blog.mandorakannu.me)
+- 📝 I regularly write articles on [My Blogs](https://blog.mandorakannu.rocks)
 
 - 💬 Ask me about **MERN STACK, Next.Js & Tailwindcss**
 
